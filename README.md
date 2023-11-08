@@ -16,6 +16,6 @@ Personal Projects
 3) Virtual Machine for quick testing: https://github.com/GeoCommander/virtual_machine
 
 Learning:
-1) Docker: https://github.com/GeoCommander/docker
-2) Portainer
+1) Portainer: https://github.com/GeoCommander/docker_portainer
+2) Docker: https://github.com/GeoCommander/docker
 3) 
