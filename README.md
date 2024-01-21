@@ -8,7 +8,7 @@ RAKO
 3) SKUs - https://github.com/GeoCommander/SKUs-abbreviated
 4) (frappe_docker fork, managed by git) rako_frappe_docker: https://github.com/GeoCommander/rako_frappe_docker
 5) test deployment image: https://github.com/GeoCommander/frappe_docker_quicktest
-6) rako-xampp: 
+6) rako-xampp (woocommerce test): https://github.com/GeoCommander/rako-xampp
 
 Personal Projects
 1) Power bi on Orange pi Android running on DisplayLink device: https://github.com/GeoCommander/orangepi-displaylink-dashboard-onandroid12
