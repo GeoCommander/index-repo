@@ -10,6 +10,8 @@ RAKO
 5) test deployment image: https://github.com/GeoCommander/frappe_docker_quicktest
 6) rako-xampp (woocommerce test): https://github.com/GeoCommander/rako-xampp
 7) pipe-price-calculator: https://github.com/GeoCommander/pipe_size
+
+
 Personal Projects
 1) Power bi on Orange pi Android running on DisplayLink device: https://github.com/GeoCommander/orangepi-displaylink-dashboard-onandroid12
 
