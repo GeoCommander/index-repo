@@ -11,6 +11,9 @@ RAKO
 6) rako-xampp (woocommerce test): https://github.com/GeoCommander/rako-xampp
 7) pipe-price-calculator: https://github.com/GeoCommander/pipe_size
 
+8) Translating frappe apps (erpnext): https://github.com/GeoCommander/frappe-app-translations
+
+
 
 Personal Projects
 1) Power bi on Orange pi Android running on DisplayLink device: https://github.com/GeoCommander/orangepi-displaylink-dashboard-onandroid12
@@ -22,4 +25,3 @@ Personal Projects
 Learning:
 1) Portainer: https://github.com/GeoCommander/docker_portainer
 2) Docker: https://github.com/GeoCommander/docker
-3) 
