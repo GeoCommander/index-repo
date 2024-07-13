@@ -14,6 +14,7 @@ RAKO
 8) Translating frappe apps (erpnext): https://github.com/GeoCommander/frappe-app-translations
 9) Webshop Customized: https://github.com/GeoCommander/webshop
 
+10) ბანკის დეტალების QR code ვებსაიტი: https://github.com/GeoCommander/BOG-TBC-RAKO/blob/master/index.html
 
 Personal Projects
 1) Power bi on Orange pi Android running on DisplayLink device: https://github.com/GeoCommander/orangepi-displaylink-dashboard-onandroid12
