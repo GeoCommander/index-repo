@@ -16,6 +16,11 @@ RAKO
 
 10) ბანკის დეტალების QR code ვებსაიტი: https://github.com/GeoCommander/BOG-TBC-RAKO/blob/master/index.html
 
+11) NVR "**ispyconnect**": https://www.ispyconnect.com/download
+      http://localhost:8090
+      (or compuiter ip:8090)
+    add ONVIF cameras. default **admin** **admin** for credentials
+    
 Personal Projects
 1) Power bi on Orange pi Android running on DisplayLink device: https://github.com/GeoCommander/orangepi-displaylink-dashboard-onandroid12
 
